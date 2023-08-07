@@ -3,6 +3,6 @@ numpy
 streamlit
 plotly
 matplotlib
-sklearn
+scikit-learn
 lightweight_charts
 streamlit_lightweight_charts
